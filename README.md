@@ -1,5 +1,6 @@
 
 # NavMeshPlus
+This is a copy of the [original repository](https://github.com/h8man/NavMeshPlus/), with the required API updates for Unity 6.
 
 NavMeshComponents.Extensions provides you with ability to create navigation meshes that are generated automatically from your Scene
 geometry, which allows characters to move intelligently around the game world.
